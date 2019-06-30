@@ -1,4 +1,4 @@
 # The Babylon Prototype
 
-**thebabylongame.com**
+**babylonthegame.com**
 
